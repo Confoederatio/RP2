@@ -1,0 +1,10 @@
+:scroll: **Military Units:**
+------------------ 
+
+<:Infantry:588564505047597061> **infantry** - **Cost:** :euro: 2.000 ¦ Ground Unit ¦ (Requires Barracks)
+<:Tank:588564505030688776> **tanks** - **Cost:** :euro: 4.000 ¦ Ground Unit ¦ (Requires Factories)
+
+<:FighterJet:588564505932464132> **fighters** - **Cost:** :euro: 5.000 ¦ Air Unit ¦ (Requires Aeroports)
+
+<:Frigate:588564506179928084> **frigates** - **Cost:** :euro: 2.000 ¦ Naval Unit ¦ (Requires Dockyards)
+<:AircraftCarrier:588564505928400915> **carriers** - **Cost:** :euro: 6.000 ¦ Naval Unit ¦ (Requires Dockyards)

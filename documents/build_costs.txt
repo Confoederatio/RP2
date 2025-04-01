@@ -1,0 +1,27 @@
+**Production Facilities:**
+------------------
+
+:evergreen_tree: **lumberyards** - +:euro: 300 per turn ¦ **Cost:** :euro: 700 ¦ (Requires Wood)
+:fish: **fisheries** - +:euro: 350 per turn ¦ **Cost:** :euro: 1.000 ¦ (Requires Crab)
+:racehorse: **pastures** - +:euro: 500 per turn ¦ **Cost:** :euro: 1.200 ¦ (Requires Horses)
+:hot_pepper: **pepper_farms** - +:euro: 700 per turn ¦ **Cost:** :euro: 1.400 ¦ (Requires Pepper)
+:man_farmer: **plantations** - +:euro: 500 per turn ¦ **Cost:** :euro: 1.500 ¦ (Requires Cotton)
+:man_farmer: **sugar_plantations** - +:euro: 750 per turn ¦ **Cost:** :euro: 1.500 ¦ (Requires Sugar)
+:man_farmer: **nutmeg_farms** - +:euro: 800 per turn ¦ **Cost:** :euro: 1.800 ¦ (Requires Nutmeg)
+:man_farmer: **wineries** - +:euro: 500 per turn ¦ **Cost:** :euro: 2.000 ¦ (Requires Wine)
+:pick: **coal_mines** - +:euro: 700 per turn ¦ **Cost:** :euro: 2.000 ¦ (Requires Coal)
+:hot_pepper:  **spice_plantations** - +:euro: 800 per turn ¦ **Cost:** :euro: 2.000 ¦ (Requires Spices)
+:pick: **copper_mines** - +:euro: 900 per turn ¦ **Cost:** :euro: 2.250 ¦ (Requires Copper)
+:pick: **aluminium_mines** - +:euro: 800 per turn ¦ **Cost:** :euro: 2.500 ¦ (Requires Aluminium)
+:hammer_pick:  **steelworks** - +:euro: 1.000 per turn ¦ **Cost:** :euro: 2500 ¦ (Requires Iron)
+:salt: **salt_mines** - +:euro: 900 per turn ¦ **Cost:** :euro: 3.000 ¦ (Requires Salt)
+:hammer_pick:  **refineries** - +:euro: 1.500 per turn ¦ **Cost:** :euro: 5.500 ¦ (Requires Petrol)
+:pick: **gold_mines** - +:euro: 1.500 per turn ¦ **Cost:** :euro: 6.000 ¦ (Requires Gold)
+
+**Military Buildings:**
+------------------
+
+:guard: **barracks** ¦ Army Facility ¦ **Cost:** :euro: 2.000
+:articulated_lorry: **factories** ¦ Army Facility ¦ **Cost:** :euro: 3.500
+:ship: **dockyards** ¦ Naval Facility ¦ **Cost:** :euro: 4.000
+:airplane: **aeroports** ¦ Air Facility ¦ **Cost:** :euro: 6.000
